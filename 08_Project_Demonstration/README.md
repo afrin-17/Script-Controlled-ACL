@@ -20,7 +20,7 @@ The project demonstration video explains:
 
 Google Drive Link:
 
-PASTE YOUR PUBLIC GOOGLE DRIVE LINK HERE
+https://drive.google.com/file/d/1-L7rqPG1F58iGIBnNy9-bFjHz6mrxN6N/view?usp=drivesdk
 
 ## Video Access
 Anyone with the link can view the demonstration video.
